@@ -21,3 +21,11 @@ python helper_md_xlsx.py <filename>
 # Things to do
 1. Nothing as of now. 
 2. Maybe create a table label and make a proper worksheet name
+
+after a friend suggestion, reversed version 
+
+```
+python helper_xlsx_md.py
+```
+
+![Image of Excel to MD Table](excel_md.gif)
